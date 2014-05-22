@@ -1,4 +1,4 @@
-#### last.fm-analysis
+### last.fm-analysis
 This is a simple scirpt that will attempt to determine how closely associated last.fm tags are by looking at how often two tags appear on the same artist.
 
 #### Quickstart
