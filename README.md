@@ -4,4 +4,4 @@ This is a simple scirpt that will attempt to determine how closely associated la
 #### Quickstart
 - clone this repo, cd inside
 - `npm install`
-- `node lastfm.js <YOUR_API_KEY> <optional - number of artists to look at when building tag associations>`
+- `node lastfm.js <YOUR_API_KEY> <optional - number of artists to use>`
